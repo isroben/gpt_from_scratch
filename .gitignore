@@ -150,6 +150,8 @@ activemq-data/
 *.sage.py
 
 # Environments
+.gpt_from_scratch
+.gpt_from_scratch/
 .env
 .envrc
 .venv
